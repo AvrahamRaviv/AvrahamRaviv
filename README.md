@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a data scientist, who loves to discover new things and delve into them, and really enjoys writing code.
+
+My main focus is developing new algorithms to verify DL/RL systems.
+
 <!--
 **AvrahamRaviv/AvrahamRaviv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
